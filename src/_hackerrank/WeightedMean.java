@@ -1,4 +1,4 @@
-package hackerrank;
+package _hackerrank;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.ArrayList;

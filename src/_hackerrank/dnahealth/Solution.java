@@ -1,4 +1,4 @@
-package hackerrank.dnahealth;
+package _hackerrank.dnahealth;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
